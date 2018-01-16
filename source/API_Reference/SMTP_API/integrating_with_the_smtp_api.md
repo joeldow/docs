@@ -20,7 +20,7 @@ Integrating with Sendgrid
 
 *To integrate with SendGrids SMTP API:*
 
-1. [Create an API Key](https://app.sendgrid.com/settings/api_keys) with at least "Mail" permissions.
+1. [Create an API Key](https://app.sendgrid.com/settings/api_keys) with at least "Mail Send" permissions.
 2. Set the server host in your email client or application to `smtp.sendgrid.net`.
     * This setting is sometimes referred to as the _external SMTP server_ or the _SMTP relay_.
 3. Set your username to `apikey`.
